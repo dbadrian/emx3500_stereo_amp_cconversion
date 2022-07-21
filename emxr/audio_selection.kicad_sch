@@ -2353,7 +2353,7 @@
     (pin "8" (uuid 9dfe5af4-aab7-4475-a41f-ba61a2eecc87))
   )
 
-  (symbol (lib_id "Connector:Conn_01x03_Male") (at 167.64 82.804 90) (mirror x) (unit 1)
+  (symbol (lib_id "Connector:Conn_01x03_Male") (at 167.64 82.804 270) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ff85a182-8129-4a86-970e-7e3542b1ed46)
     (property "Reference" "J205" (id 0) (at 167.64 77.47 90))
