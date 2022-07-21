@@ -384,7 +384,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "../../../../",
+      "netlist": "emxr.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -444,7 +444,11 @@
     ],
     [
       "dc607ab0-6757-4819-9cf1-e3a03e4944ab",
-      "Stereo"
+      "Stereo Channel L"
+    ],
+    [
+      "27c1132e-d226-44df-aa0b-bd397ea5669d",
+      "Stereo Channel R"
     ]
   ],
   "text_variables": {}
