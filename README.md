@@ -1,6 +1,9 @@
 # EMX3500 To Stereo Conversion
 
-A "replacement" PCB for the EMX3500 to convert the L/R-amplification stages and Graphic Equalizer (GEQ) to simple stereo amp.
+A "replacement" PCB for the [EMX3500](https://de.yamaha.com/files/download/other_assets/1/324571/EMX3500G.pdf) to convert the L/R-amplification stages and Graphic Equalizer (GEQ) to simple stereo amp.
+
+![](/assets/pcb.png)
+
 
 ## What is this project?
 EMX3500 is an older, analog, powered mixer by Yamaha, see the below image.
@@ -18,10 +21,10 @@ At the same time, the star-grounding is changed in favor for simple 2-layer PCB 
 I know, I know, hardcore-music aficionados with their bee-wax filled capacitors will cry themselves to sleep hearing this, but I can promise you...I sleep quite comfortably despite this alteration...
 
 
-**Note**:
+> **Note**:
 > I am anything but a professional circuit designer. In fact, this was my first complete PCB design with manufacturing...
 
-**Warning**:
+> **Warning**:
 > The headphone related part of the PCB does not what you might think, and will be completely removed/changed in a future revision of this project.
 
 
@@ -36,3 +39,8 @@ However, I bought it with the intention for salvaging parts for synth-related pr
 Nevertheless the housing wasn't in the most prestine condition: screws were rusted in (previous owner seemed to have stored it in a garage for an extended time period), one channel's XLR connector was broken in.
 Also, I just really didn't have the need or space for a massive 16-channel power amp mixer.... I was, however, in need for a new stereo amp :).
 
+## Before and after
+
+![](/assets/open_combined.jpg)
+
+![](/assets/finished.jpg)
