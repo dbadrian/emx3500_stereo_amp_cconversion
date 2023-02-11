@@ -2,7 +2,7 @@
 
 A "replacement" PCB for the [EMX3500](https://de.yamaha.com/files/download/other_assets/1/324571/EMX3500G.pdf) to convert the L/R-amplification stages and Graphic Equalizer (GEQ) to simple stereo amp.
 
-![](/assets/pcb.png)
+![](/assets/soldered.png)
 
 
 ## What is this project?
@@ -40,6 +40,9 @@ Nevertheless the housing wasn't in the most prestine condition: screws were rust
 Also, I just really didn't have the need or space for a massive 16-channel power amp mixer.... I was, however, in need for a new stereo amp :).
 
 ## Before and after
+
+![](/assets/pcb.png)
+
 
 ![](/assets/open_combined.jpg)
 
