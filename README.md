@@ -47,4 +47,6 @@ And the mixer part still exists as is and will be rebuilt into a smaller, indepe
 
 ![](/assets/open_combined.jpg)
 
+The case is not totally finished and a temporary housing.
+All metal parts are properly grounded.
 ![](/assets/finished.jpg)
