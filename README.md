@@ -7,15 +7,25 @@ EMX3500 is an older, analog, powered mixer by Yamaha, see the below image.
 The project idea is to separate the mixing part from the amp part of the original product.
 However, it is not as simple as just separating the PCBs and doing a bit of rewiring.
 Practically speaking is near impossible for two reasons:
-* The original PCBs are designed using star-grounding (with some PCBs (or parts thereof) directly grounded to the chassis, others via other PCBs)
+* The original PCBs are designed using single layer PCBs with star-grounding (with some PCBs (or parts thereof) directly grounded to the chassis, others via other PCBs)
 * Many of mixers PCBs have multiple sub-circuits of different functionalities and its near impossible to remove any part without breaking the complete system
 
 The conclusion was to refactor the needed circuit paths from about plethora of individual PCBS onto new single purpose PCBs, which would allow to create a stand-alone stereo amp and, in the future, a dependent mixer that can be connected and used via stereo amp.
 
 This repository currently contains the KiCad project for the stereo amp related PCB, that can be connected to the original GEQ and amp stages.
+The circuit is more or less the original circuit, reduced to its minimal subset required to achieve the desired functionality.
+At the same time, the star-grounding is changed in favor for simple 2-layer PCB design with a ground-plane.
+I know, I know, hardcore-music aficionados with their bee-wax filled capacitors will cry themselves to sleep hearing this, but I can promise you...I sleep quite comfortably despite this alteration...
 
 
-<<TODO IMAGE OF EMX HERE>>
+**Note**:
+> I am anything but a professional circuit designer. In fact, this was my first complete PCB design with manufacturing...
+
+**Warning**:
+> The headphone related part of the PCB does not what you might think, and will be completely removed/changed in a future revision of this project.
+
+
+>TODO: IMAGE OF EMX HERE
 
 
 ## Why thou!?
