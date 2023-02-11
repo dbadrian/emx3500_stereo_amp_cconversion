@@ -2,7 +2,7 @@
 
 A "replacement" PCB for the [EMX3500](https://de.yamaha.com/files/download/other_assets/1/324571/EMX3500G.pdf) to convert the L/R-amplification stages and Graphic Equalizer (GEQ) to simple stereo amp.
 
-![](/assets/soldered.png)
+![](/assets/soldered.jpg)
 
 
 ## What is this project?
